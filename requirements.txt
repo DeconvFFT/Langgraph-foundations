@@ -17,3 +17,6 @@ python-dotenv
 anthropic
 nest_asyncio
 pydantic_ai
+langgraph
+langsmith
+IPython
