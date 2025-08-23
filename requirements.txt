@@ -20,3 +20,6 @@ pydantic_ai
 langgraph
 langsmith
 IPython
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+langgraph-checkpoint
