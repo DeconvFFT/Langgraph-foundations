@@ -23,3 +23,6 @@ IPython
 langgraph-checkpoint-sqlite
 langgraph-checkpoint-postgres
 langgraph-checkpoint
+langgraph-cli[inmem]
+tavily-python
+wikipedia
