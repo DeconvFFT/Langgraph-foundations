@@ -26,3 +26,4 @@ langgraph-checkpoint
 langgraph-cli[inmem]
 tavily-python
 wikipedia
+trustcall
